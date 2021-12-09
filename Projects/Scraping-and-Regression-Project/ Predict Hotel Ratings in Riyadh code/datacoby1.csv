@@ -1,0 +1,919 @@
+hotel,Price,rating,reviews,loc
+,,,,
+Al Waha Palace Hotel,SAR307 ,7.8,"2,098 reviews",1.8 km from center
+,,,,
+Voyage Hotel,SAR466 ,8.6,"4,111 reviews",3.8 km from center
+,,,,
+Carawan Al Fahad Hotel,SAR350 ,8.1,"2,299 reviews",2 km from center
+,,,,
+Gloria Inn Riyadh,SAR326 ,7.9,"4,054 reviews",8.1 km from center
+,,,,
+Rest Night Hotel Suites- - AL Nafal,SAR250 ,7.4,"2,158 reviews",9.8 km from center
+,,,,
+"Burj Rafal Riyadh, a Marriott International Hotel",SAR990 ,7.8,"4,674 reviews",11.9 km from center
+,,,,
+Grand Plaza Hotel-Dhabab Riyadh,SAR350 ,7.8,"1,008 reviews",4.3 km from center
+,,,,
+"Crowne Plaza Riyadh - RDC Hotel & Convention, an IHG Hotel",SAR925 ,8.8,"2,250 reviews",6.7 km from center
+,,,,
+Executives Hotel - Olaya,SAR444.19 ,7.9,"5,686 reviews",1.5 km from center
+,,,,
+Art View Hotel Al Riyadh,SAR513 ,8.1,"1,906 reviews",7.7 km from center
+,,,,
+Roof Hotel Apartments,SAR399 ,8.1,457 reviews,11.2 km from center
+,,,,
+Sheraton Riyadh Hotel & Towers,SAR650 ,7.9,972 reviews,3.9 km from center
+,,,,
+"The Ritz-Carlton, Riyadh","SAR1,499 ",8.6,"3,435 reviews",6 km from center
+,,,,
+Al Mashreq Boutique Hotel – Small Luxury Hotels of the World,SAR783 ,7.9,"1,784 reviews",2.8 km from center
+,,,,
+Ibis Riyadh Olaya Street,SAR325 ,6.6,"4,333 reviews",1.9 km from center
+,,,,
+Novotel Riyadh Al Anoud,SAR475 ,7.2,"3,117 reviews",1.4 km from center
+,,,,
+"Holiday Inn Riyadh Izdihar, an IHG Hotel",SAR570 ,7.7,"1,669 reviews",10.8 km from center
+,,,,
+"Crowne Plaza Riyadh Al Waha, an IHG Hotel",SAR473 ,7.5,"1,861 reviews",6.9 km from center
+,,,,
+Hilton Garden Inn Riyadh Olaya,SAR410 ,7.1,639 reviews,2.5 km from center
+,,,,
+Courtyard by Marriott Riyadh Olaya,SAR775 ,8.3,"2,897 reviews",800 m from center
+,,,,
+Courtyard by Marriott Riyadh Northern Ring Road,SAR600 ,8.1,"1,155 reviews",7.9 km from center
+,,,,
+Braira Olaya,SAR588 ,8.6,"3,385 reviews",1.4 km from center
+,,,,
+Courtyard Riyadh by Marriott Diplomatic Quarter,SAR650 ,8.1,"2,440 reviews",6.6 km from center
+,,,,
+DoubleTree by Hilton Hotel Riyadh - Al Muroj Business Gate,SAR698 ,7.6,"3,393 reviews",7.9 km from center
+,,,,
+"Crowne Plaza Hotel Riyadh Minhal, an IHG Hotel",SAR460 ,8.7,"1,334 reviews",3.8 km from center
+,,,,
+"Radisson Blu Hotel, Riyadh",SAR560 ,7.8,"2,152 reviews",4.7 km from center
+,,,,
+Aswar Hotel Suites Riyadh,SAR638 ,8.5,"1,465 reviews",12.2 km from center
+,,,,
+"Holiday Inn Meydan, an IHG Hotel",SAR475 ,7.6,"2,542 reviews",2.2 km from center
+,,,,
+Novotel Suites Riyadh Olaya,SAR400 ,7.2,"1,602 reviews",1.6 km from center
+,,,,
+Grand Plaza Gulf Hotel - Riyadh,SAR399 ,8,"3,136 reviews",4 km from center
+,,,,
+Grand Plaza Hotel-Dhabab Riyadh,SAR350 ,7.8,"1,008 reviews",4.3 km from center
+,,,,
+Rest Night Hotel Suites- - AL Nafal,SAR250 ,7.4,"2,158 reviews",9.8 km from center
+,,,,
+Melissa Hotel Riyadh,SAR350 ,8.1,"1,886 reviews",12.4 km from center
+,,,,
+Ramada by Wyndham Hotel Riyadh,SAR347 ,7.2,"1,862 reviews",4.3 km from center
+,,,,
+Hilton Garden Inn Riyadh Olaya,SAR410 ,7.1,640 reviews,2.5 km from center
+,,,,
+OYO 123 Dome El Nozha,SAR252 ,7.1,"1,906 reviews",7.9 km from center
+,,,,
+Braira Qurtubah,SAR551 ,8.1,"5,461 reviews",14.9 km from center
+,,,,
+Roof Hotel Apartments,SAR399 ,8.1,457 reviews,11.2 km from center
+,,,,
+IntercityHotel Riyadh Malaz,SAR425 ,8,"2,619 reviews",6.2 km from center
+,,,,
+Hyatt Regency Riyadh Olaya,"SAR1,305 ",8.4,"6,997 reviews",0.4 km from center
+,,,,
+"Crowne Plaza Riyadh - RDC Hotel & Convention, an IHG Hotel",SAR925 ,8.8,"2,250 reviews",6.7 km from center
+,,,,
+Almasem Luxury Hotel suite 6,SAR250 ,7.6,535 reviews,11.4 km from center
+,,,,
+Coral Olaya Hotel,SAR267.81 ,6.9,"1,780 reviews",2.7 km from center
+,,,,
+Towlan Al Rawdah,SAR230 ,7.3,972 reviews,9.8 km from center
+,,,,
+Courtyard by Marriott Riyadh Northern Ring Road,SAR600 ,8.1,"1,155 reviews",7.9 km from center
+,,,,
+"voco - Riyadh, an IHG Hotel",SAR808 ,8.3,"2,339 reviews",3.6 km from center
+,,,,
+Carawan Al Fahad Hotel,SAR350 ,8.1,"2,299 reviews",2 km from center
+,,,,
+Braira AL Wezarat,SAR425 ,8.4,"2,841 reviews",4.4 km from center
+,,,,
+فيناس للشقق الفندقية,SAR240 ,7.1,212 reviews,13.1 km from center
+,,,,
+Olian Hotel,SAR419.65 ,7.6,"2,073 reviews",12.5 km from center
+,,,,
+Motiara Hotel - La Valle Mall,SAR513 ,8.1,762 reviews,10 km from center
+,,,,
+Hyatt Place Riyadh Sulaimania,SAR585 ,8.6,"1,255 reviews",3.1 km from center
+,,,,
+Towlan Al Rawdah,SAR230 ,7.3,972 reviews,9.8 km from center
+,,,,
+Novotel Suites Riyadh Olaya,SAR400 ,7.2,"1,602 reviews",1.6 km from center
+,,,,
+Centro Olaya by Rotana,SAR675 ,7.9,"4,167 reviews",0.4 km from center
+,,,,
+Madareem Crown Hotel,SAR642 ,7.2,652 reviews,12.2 km from center
+,,,,
+Rafa - Al Nuzhah,SAR430 ,8.1,"1,268 reviews",7.1 km from center
+,,,,
+Melissa Hotel Riyadh,SAR350 ,8.1,"1,886 reviews",12.4 km from center
+,,,,
+Executives Hotel / KAFD,SAR675 ,8.1,"3,499 reviews",9.7 km from center
+,,,,
+"voco - Riyadh, an IHG Hotel",SAR808 ,8.3,"2,339 reviews",3.6 km from center
+,,,,
+Four Points By Sheraton Riyadh Khaldia,SAR375 ,7.7,"1,730 reviews",7.1 km from center
+,,,,
+Ascott Rafal Olaya Riyadh,SAR836 ,7.2,"5,239 reviews",13.8 km from center
+,,,,
+Riyadh Airport Marriott Hotel,"SAR1,000 ",7.9,"1,646 reviews",25.7 km from center
+,,,,
+Le Meridien Riyadh,"SAR1,190 ",8.1,870 reviews,3.9 km from center
+,,,,
+Meral Crown Hotel,SAR405 ,7.8,"1,135 reviews",12.1 km from center
+,,,,
+"Holiday Inn Meydan, an IHG Hotel",SAR475 ,7.6,"2,542 reviews",2.2 km from center
+,,,,
+Radisson Hotel Riyadh Airport,SAR631 ,7.6,535 reviews,24.4 km from center
+,,,,
+Almasem Luxury Hotel suite 6,SAR250 ,8.2,"1,414 reviews",11.4 km from center
+,,,,
+"Al Faisaliah Hotel, Riyadh","SAR2,550 ",7.3,"2,359 reviews",0.8 km from center
+,,,,
+Sanam Hotel Suites - Riyadh,SAR285 ,7.1,"1,906 reviews",2 km from center
+,,,,
+OYO 123 Dome El Nozha,SAR252 ,8.2,"3,602 reviews",7.9 km from center
+,,,,
+Holiday Khaleej Hotel,SAR557.23 ,7.9,"1,840 reviews",11.6 km from center
+,,,,
+Quetzal Aparthotel,SAR540 ,8.1,"1,781 reviews",11.6 km from center
+,,,,
+"Park Inn by Radisson, Riyadh",SAR360 ,7.7,561 reviews,5.2 km from center
+,,,,
+Hayat Rose Hotel Apartments,SAR398 ,8.2,"1,118 reviews",9.2 km from center
+,,,,
+"Marriott Executive Apartments Riyadh, Convention Center",SAR950 ,7.5,960 reviews,3.4 km from center
+,,,,
+Rafa Homes,SAR350 ,,,11.5 km from center
+,,,,
+Holiday Khaleej Hotel,SAR557.23 ,8.2,"3,602 reviews",11.6 km from center
+,,,,
+Ascott Rafal Olaya Riyadh,SAR836 ,7.2,"5,239 reviews",13.8 km from center
+,,,,
+Hayat Rose Hotel Apartments,SAR398 ,7.7,561 reviews,9.2 km from center
+,,,,
+Rafa - Al Nuzhah,SAR430 ,8.1,"1,268 reviews",7.1 km from center
+,,,,
+Swiss International Royal Hotel Riyadh,SAR695 ,8,"1,495 reviews",13.5 km from center
+,,,,
+Le Meridien Riyadh,"SAR1,190 ",8.1,870 reviews,3.9 km from center
+,,,,
+Al Mutlaq Hotel Riyadh,SAR348.85 ,7.7,608 reviews,3.8 km from center
+,,,,
+Hyatt Buyutat,SAR410 ,6.8,"1,376 reviews",2.6 km from center
+,,,,
+RAND by Wandalus (Formerly Coral Riyadh Suliemaniah),SAR385 ,7.5,612 reviews,1.5 km from center
+,,,,
+Sanam Hotel Suites - Riyadh,SAR285 ,7.3,"2,359 reviews",2 km from center
+,,,,
+Al Amoria Apartments,SAR269 ,8.2,67 reviews,7.3 km from center
+,,,,
+Auris Al Fanar ApartHotel,SAR345 ,7.6,562 reviews,11.9 km from center
+,,,,
+Kyan Al Yarmouk Suites,SAR300 ,7.7,254 reviews,18.1 km from center
+,,,,
+Unique Suites,SAR382 ,8.3,338 reviews,5.6 km from center
+,,,,
+Samaya Suites,SAR360 ,8.1,262 reviews,9.2 km from center
+,,,,
+Radisson Hotel Riyadh Airport,SAR631 ,8.6,527 reviews,24.4 km from center
+,,,,
+Clemence Suites,SAR395 ,7.9,"1,840 reviews",8.4 km from center
+,,,,
+Quetzal Aparthotel,SAR540 ,7.9,161 reviews,11.6 km from center
+,,,,
+Janat Al Areef ApartHotel,SAR525 ,6.9,155 reviews,12.2 km from center
+,,,,
+Nadreen Furnished Units,SAR400 ,7.5,85 reviews,18.2 km from center
+,,,,
+The One Resorts,"SAR1,100 ",8.7,56 reviews,25.1 km from center
+,,,,
+Mnazel Jawraq,"SAR2,250 ",8.1,"1,781 reviews",10.1 km from center
+,,,,
+"Park Inn by Radisson, Riyadh",SAR360 ,6,"2,614 reviews",5.2 km from center
+,,,,
+فندق العروبة,SAR110 ,6.3,"6,100 reviews",7 km from center
+,,,,
+Capital O 162 Brzeen Hotel,SAR146 ,7.4,"1,502 reviews",4.1 km from center
+,,,,
+HDB hotel Sahafa فندق هدب الصحافه,SAR405 ,,,12.2 km from center
+,,,,
+درر رامه للأجنحة الفندقية 4,SAR205 ,6.6,214 reviews,6.4 km from center
+,,,,
+Novotel Suites Riyadh Dyar,SAR300 ,6.2,"3,568 reviews",1.4 km from center
+,,,,
+Ewaa Express Hotel - Khurais,SAR299 ,8.4,"1,877 reviews",2.1 km from center
+,,,,
+Almakan Suites 111,SAR108 ,4,942 reviews,12.7 km from center
+,,,,
+"Marriott Executive Apartments Riyadh, Convention Center",SAR950 ,8.2,"1,118 reviews",3.4 km from center
+,,,,
+manzel aram 105,SAR126 ,5.4,890 reviews,4.3 km from center
+,,,,
+Al Muhaidb Al Malaz - Al Farazdaq Road,SAR210 ,6.9,769 reviews,6 km from center
+,,,,
+Sama Inn Hotel,SAR330 ,7.8,429 reviews,14.4 km from center
+,,,,
+جولدن جاردن للأجنحة الفندقية,SAR250 ,7.9,272 reviews,13 km from center
+,,,,
+Tulip Inn Riyadh,SAR225 ,5.8,498 reviews,6.8 km from center
+,,,,
+Park House Hotel Suite,SAR369 ,8.1,487 reviews,2.6 km from center
+,,,,
+Al Muhaidb Residence - Al Malaz,SAR285 ,7.7,"1,347 reviews",4.1 km from center
+,,,,
+Coupard Hotel,SAR400 ,8,206 reviews,15.8 km from center
+,,,,
+فندق الرياض ان - riyadh inn hotel,SAR270 ,7.7,400 reviews,12.3 km from center
+,,,,
+قصر الحمراء فرع الاسواق,SAR98 ,6.7,"2,466 reviews",6.6 km from center
+,,,,
+Al Muhaidb Down Town - King Fahd Road,SAR250 ,7.9,"1,057 reviews",4.3 km from center
+,,,,
+Grand Plaza Hotel-KAFD Riyadh,SAR555 ,7.9,655 reviews,10.8 km from center
+,,,,
+MENA AL DIYAR 114,SAR140 ,6.4,549 reviews,5.7 km from center
+,,,,
+Al Hamra Palace By Warwick,SAR400 ,7.1,"1,261 reviews",4.1 km from center
+,,,,
+Plaza Business Hotel,SAR468 ,6.5,"3,617 reviews",750 m from center
+,,,,
+Mena Hotel Riyadh,SAR315 ,6.4,"2,598 reviews",1.4 km from center
+,,,,
+Vittori Palace Hotel and Residences,SAR600 ,8.5,"1,256 reviews",7.7 km from center
+,,,,
+Aber Al Yasmin,SAR340 ,8.4,"1,330 reviews",14.3 km from center
+,,,,
+Gardino Hotel & Residence - فندق جاردينو,SAR664 ,8.6,535 reviews,4.6 km from center
+,,,,
+صبا للشقق الفندقيه,SAR249 ,7.2,554 reviews,5.7 km from center
+,,,,
+Dar Hashim Hotel Apartments - Al Morouj,SAR330 ,8.9,"2,283 reviews",6.4 km from center
+,,,,
+Almakan Hotel 103,SAR144 ,5.9,"1,806 reviews",17.2 km from center
+,,,,
+Rose Garden Hotel,SAR264 ,7.1,"3,297 reviews",4 km from center
+,,,,
+Al Muhaidb Residence Al Takhassusi,SAR270 ,6.7,"1,142 reviews",1 km from center
+,,,,
+AWFAD Hotel,SAR361 ,7.6,"1,001 reviews",650 m from center
+,,,,
+Al Muhaidb Down Town - King Fahd Road,SAR250 ,7.9,"1,057 reviews",4.3 km from center
+,,,,
+"Marriott Executive Apartments Riyadh, Convention Center",SAR950 ,8.2,"1,118 reviews",3.4 km from center
+,,,,
+Nelover Qurtubah Hotel,SAR563 ,8.5,880 reviews,13.5 km from center
+,,,,
+Aber Al Yasmin,SAR340 ,8.4,"1,330 reviews",14.3 km from center
+,,,,
+Nadreen Furnished Units,SAR400 ,6.9,155 reviews,18.2 km from center
+,,,,
+Al Malqa Elite Hotel,SAR431 ,7.9,845 reviews,13.5 km from center
+,,,,
+Boudl Al Qasr,SAR316 ,7.6,"2,169 reviews",10.8 km from center
+,,,,
+Rafa Homes,SAR350 ,7.5,960 reviews,11.5 km from center
+,,,,
+Al Muhaidb ALOlaya Suites,SAR345 ,8,"1,104 reviews",1.9 km from center
+,,,,
+Braira Al Nakheel,SAR732 ,8.7,"3,879 reviews",8.8 km from center
+,,,,
+Dorat Najd Resort - منتجع درة نجد,SAR950 ,7.8,135 reviews,20.6 km from center
+,,,,
+Four Seasons Hotel Riyadh,"SAR3,800 ",8.6,"1,499 reviews",1.9 km from center
+,,,,
+A4 Ghadeer VIP Golden,SAR889 ,7,853 reviews,8.6 km from center
+,,,,
+Al Janaderia Suites 7,SAR315 ,8.4,"1,493 reviews",2.6 km from center
+,,,,
+Best Western Plus Fursan,SAR520 ,7.5,85 reviews,8.3 km from center
+,,,,
+The One Resorts,"SAR1,100 ",6.4,191 reviews,25.1 km from center
+,,,,
+Dorar Darea Hotel Apartments - Al Mughrizat,SAR270 ,5.8,"1,333 reviews",9 km from center
+,,,,
+Capital O 419 Al Safeer Hotel,SAR124 ,7.9,229 reviews,14.2 km from center
+,,,,
+Rafa Homes Al Izdihar 2,SAR484 ,8.9,"2,283 reviews",10 km from center
+,,,,
+Dar Hashim Hotel Apartments - Al Morouj,SAR330 ,6.2,990 reviews,6.4 km from center
+,,,,
+Aliah Tolan Palace,SAR122 ,7.7,"1,347 reviews",11.9 km from center
+,,,,
+Al Muhaidb Residence - Al Malaz,SAR285 ,6.3,619 reviews,4.1 km from center
+,,,,
+Al Muhaidb Tahliya (Olaya),SAR245 ,6.8,"1,376 reviews",250 m from center
+,,,,
+Hyatt Buyutat,SAR410 ,,,2.6 km from center
+,,,,
+Ewaa Express Hotel - Gaber,SAR375 ,8.8,652 reviews,17.7 km from center
+,,,,
+Hayat Al Riyadh Hotel,SAR432 ,8.2,"2,336 reviews",4.9 km from center
+,,,,
+Dana Hotel & Residences 2,SAR500 ,9.2,488 reviews,16.6 km from center
+,,,,
+Elite Suites Hotel - Al sahafah,SAR400 ,7.9,582 reviews,11.2 km from center
+,,,,
+Kyan Al Yarmouk Suites,SAR300 ,7.7,254 reviews,18.1 km from center
+,,,,
+Riyadh Diplomatic Quarter - Marriott Executive Apartments,"SAR2,200 ",8.3,402 reviews,6.2 km from center
+,,,,
+Al Muhaidb Al Malaz - Al Farazdaq Road,SAR210 ,6.9,769 reviews,6 km from center
+,,,,
+Corp Inn Deira.,SAR380 ,6.7,739 reviews,7.7 km from center
+,,,,
+Alfarhan Panda Alfayha,SAR243 ,8,"1,045 reviews",13.6 km from center
+,,,,
+Swiss International Royal Hotel Riyadh,SAR695 ,8,"1,495 reviews",13.5 km from center
+,,,,
+Al Muhaidb Sulaimanya Askary Hospital,SAR250 ,7.7,"1,987 reviews",3.1 km from center
+,,,,
+Sama Hotel,SAR190 ,7.3,"1,173 reviews",2.7 km from center
+,,,,
+Almakan Suites 101,SAR162 ,5.2,914 reviews,12.6 km from center
+,,,,
+Golden Tulip Riyadh,SAR550 ,9,231 reviews,12.2 km from center
+,,,,
+Dana Hotel & Residences,SAR450 ,8.8,764 reviews,16.6 km from center
+,,,,
+Super 8 Al Riyadh,SAR293 ,6.9,753 reviews,16.5 km from center
+,,,,
+Mandarin Hotel Apartments,SAR475 ,8.7,427 reviews,6.5 km from center
+,,,,
+Almakan Suites 111,SAR108 ,4,942 reviews,12.7 km from center
+,,,,
+فندق الرياض ان - riyadh inn hotel,SAR270 ,7.7,400 reviews,12.3 km from center
+,,,,
+دانة الخليج Danat Al Khaleej Hotel,SAR540 ,8.4,462 reviews,17.6 km from center
+,,,,
+Ashbonh Hotel Suites,SAR333 ,7.6,406 reviews,2.3 km from center
+,,,,
+Al Muhaidb Gharnata - Al Malaz,SAR260 ,7.4,709 reviews,5.9 km from center
+,,,,
+Rest Night Hotel Apartment,SAR293.70 ,7.6,"2,865 reviews",12.7 km from center
+,,,,
+Madareem Crown Hotel,SAR642 ,7.2,652 reviews,12.2 km from center
+,,,,
+Al Farhan Hotel Suites (Exit 15),SAR170 ,6.4,465 reviews,12.1 km from center
+,,,,
+Al Furat Madayin Hotel,SAR200 ,6.9,340 reviews,1.2 km from center
+,,,,
+Mira Trio Hotel - Riyadh - Tahlia Street,SAR447 ,7.4,"2,678 reviews",1.5 km from center
+,,,,
+هيفن بلازا,SAR306 ,6.3,"3,386 reviews",1.8 km from center
+,,,,
+Almakan Suites 102,SAR126 ,5.4,612 reviews,12.6 km from center
+,,,,
+H (Hills) ApartHotel,SAR290 ,7.3,319 reviews,4.3 km from center
+,,,,
+عائلات فقط - Maqam AL Diyafa,SAR157 ,6.9,168 reviews,16.5 km from center
+,,,,
+Ascott Rafal Olaya Riyadh,SAR836 ,7.2,"5,239 reviews",13.8 km from center
+,,,,
+Nawara Dala,SAR300 ,7,497 reviews,6.1 km from center
+,,,,
+امجاد الرياض,SAR240 ,6.2,179 reviews,4.6 km from center
+,,,,
+Al Muhaidb Gharnata - Al Malaz,SAR260 ,7.4,709 reviews,5.9 km from center
+,,,,
+IntercityHotel Riyadh Malaz,SAR425 ,8,"2,619 reviews",6.2 km from center
+,,,,
+Al Janaderia Suites 7,SAR315 ,7,853 reviews,2.6 km from center
+,,,,
+Hayat Rose Hotel Apartments,SAR398 ,7.7,561 reviews,9.2 km from center
+,,,,
+Boudl Al Munsiyah,SAR395 ,7.7,"2,711 reviews",20 km from center
+,,,,
+Al Farhan Hotel Suites - Al Salam,SAR218 ,6.6,"1,066 reviews",12.3 km from center
+,,,,
+Intour Qurtoba,SAR290 ,7.2,"1,002 reviews",13.5 km from center
+,,,,
+Rafa Homes Al Izdihar 1,SAR402 ,8,266 reviews,10 km from center
+,,,,
+Aber Al Munsiyah,SAR350 ,7.8,"1,224 reviews",19.9 km from center
+,,,,
+ElAF ALHAMRA,SAR180 ,6.2,80 reviews,11.8 km from center
+,,,,
+Manazel Maali Suites,SAR200 ,7.2,166 reviews,12.3 km from center
+,,,,
+Holiday Plus Cordoba,SAR213 ,7.5,509 reviews,14.6 km from center
+,,,,
+Al Muhaidb Al Malaz - Al Jamiah,SAR245 ,7.4,760 reviews,6.1 km from center
+,,,,
+Ewaa Express Hotel-Al Olaya,SAR300 ,6.8,"1,181 reviews",0.5 km from center
+,,,,
+سمو 2,SAR200 ,6.5,125 reviews,8.7 km from center
+,,,,
+فندق دولف الرياض Doolv hotel,SAR299 ,7.4,56 reviews,13.1 km from center
+,,,,
+الفرحان قرطبه,SAR446 ,7.5,482 reviews,14.9 km from center
+,,,,
+Al Muhaidb Jarir - Al Malaz,SAR340 ,7.9,473 reviews,6.3 km from center
+,,,,
+Malfakum Apartment Hotel,SAR350 ,8.8,764 reviews,16 km from center
+,,,,
+Dana Hotel & Residences,SAR450 ,,,16.6 km from center
+,,,,
+سمو 2,SAR200 ,6.5,125 reviews,8.7 km from center
+,,,,
+فندق دولف الرياض Doolv hotel,SAR299 ,7.4,56 reviews,13.1 km from center
+,,,,
+الفرحان قرطبه,SAR446 ,7.5,482 reviews,14.9 km from center
+,,,,
+Al Muhaidb Jarir - Al Malaz,SAR340 ,7.7,561 reviews,6.3 km from center
+,,,,
+Hayat Rose Hotel Apartments,SAR398 ,7.9,473 reviews,9.2 km from center
+,,,,
+Malfakum Apartment Hotel,SAR350 ,8.8,764 reviews,16 km from center
+,,,,
+Dana Hotel & Residences,SAR450 ,6.3,201 reviews,16.6 km from center
+,,,,
+قصر اليمامة للاجنحة الفندقية-فرع الحزم,SAR266 ,8.1,"3,843 reviews",17.6 km from center
+,,,,
+Ayan furnished units and Suites,SAR577 ,9.3,213 reviews,12.4 km from center
+,,,,
+Makarem Hotel Apartments,SAR400 ,6.8,"1,376 reviews",15.1 km from center
+,,,,
+Hyatt Buyutat,SAR410 ,6.1,230 reviews,2.6 km from center
+,,,,
+,,,,
+,,,,
+فلل لاكاسا الفندقية,"SAR4,976 ",4.8,71 reviews,6.5 km from center
+,,,,
+بي تو للوحدات الفندقية,SAR250 ,7.4,177 reviews,9 km from center
+,,,,
+towlan qurtaba,SAR240 ,8.2,347 reviews,14.3 km from center
+,,,,
+Manazilna Apartments Riyadh منازلنا للشقق المفروشة للمحصنين فقط,SAR240 ,9.7,181 reviews,9.4 km from center
+,,,,
+hosta hotel suites,SAR450 ,7.6,406 reviews,13.5 km from center
+,,,,
+Ashbonh Hotel Suites,SAR333 ,9,231 reviews,2.3 km from center
+,,,,
+Golden Tulip Riyadh,SAR550 ,7.3,210 reviews,12.2 km from center
+,,,,
+دار الشرق للوحدات السكنية المفروشة,SAR250 ,6.9,190 reviews,18.2 km from center
+,,,,
+تالـيـن غرناطه للاجنحة الفندقية,SAR280 ,7.1,"3,297 reviews",12.5 km from center
+,,,,
+Rose Garden Hotel,SAR264 ,5.3,601 reviews,4 km from center
+,,,,
+Al Eairy Apartments- Riyadh 3,SAR105 ,8.2,327 reviews,16 km from center
+,,,,
+Sweet Homes,SAR300 ,7.2,"1,061 reviews",14.5 km from center
+,,,,
+Boudl Al Malaz,SAR316 ,7.5,101 reviews,5.6 km from center
+,,,,
+قصر الحمراء للأجنحة الفندقية,SAR190 ,8.4,"1,368 reviews",4.4 km from center
+,,,,
+Nelover Hotel Ar Rawdah,SAR482 ,,,9.3 km from center
+,,,,
+Boudl Al Sahafa,SAR455 ,8.2,999 reviews,13.3 km from center
+,,,,
+Sixty Three Hotel Suites,SAR270 ,7.2,68 reviews,2.1 km from center
+,,,,
+Intour Qurtoba,SAR290 ,7.2,"1,002 reviews",13.5 km from center
+,,,,
+Al Muhaidb Al Narges,SAR300 ,7.2,966 reviews,14.6 km from center
+,,,,
+Unique Suites,SAR382 ,8.3,338 reviews,5.6 km from center
+,,,,
+Boudl Al Wadi,SAR420 ,7.9,446 reviews,11.1 km from center
+,,,,
+Rayatna for Furnished Apartments 2,SAR400 ,7.1,281 reviews,11.3 km from center
+,,,,
+Hotelier Al Sulaymaniyh,SAR210 ,6.8,252 reviews,2.6 km from center
+,,,,
+Cristal Amaken Hotel Riyadh,SAR800 ,8.3,349 reviews,26.3 km from center
+,,,,
+,,,,
+,,,,
+Boudl Al Munsiyah,SAR395 ,7.7,"2,711 reviews",20 km from center
+,,,,
+ال متعب سويتس الإزدهار,SAR509 ,7.6,347 reviews,9.6 km from center
+,,,,
+Royal Suites,SAR450 ,7.5,144 reviews,550 m from center
+,,,,
+Elite Furnished Units,SAR210 ,8.2,104 reviews,16.9 km from center
+,,,,
+Aber Al Munsiyah,SAR350 ,7.8,"1,224 reviews",19.9 km from center
+,,,,
+Bait Al Amani Suites,SAR170 ,6.1,230 reviews,2.8 km from center
+,,,,
+Nasima Hotel Apartements,SAR450 ,8.2,388 reviews,15 km from center
+,,,,
+Rafa,SAR414 ,7.2,901 reviews,12 km from center
+,,,,
+,,,,
+,,,,
+قصر الحمراء للأجنحة الفندقية,SAR190 ,7.5,101 reviews,4.4 km from center
+,,,,
+towlan qurtaba,SAR240 ,7.4,177 reviews,14.3 km from center
+,,,,
+Mena Andalusia Riyadh,SAR248 ,7.1,"3,381 reviews",1.8 km from center
+,,,,
+Al Eairy Apartments Al Riyad 5,SAR90 ,4.7,190 reviews,10.4 km from center
+,,,,
+Clemence Suites,SAR395 ,8.6,527 reviews,8.4 km from center
+,,,,
+شاليهات المقصد Al Maqsd Chalets,"SAR1,104 ",7.2,53 reviews,19.2 km from center
+,,,,
+Arto Aparthotel,SAR373 ,8.6,773 reviews,12.2 km from center
+,,,,
+Le Park Concord Rabwah Boutique Hotel,SAR315 ,7.7,211 reviews,8.9 km from center
+,,,,
+Dabab Hotel By Warwick,SAR329 ,7.4,"2,802 reviews",2.8 km from center
+,,,,
+APOLLO DIMORA THE BUSINESS HOTEL,SAR285 ,6.8,360 reviews,7 km from center
+,,,,
+Hodooa Al Masaken,SAR120 ,6.5,334 reviews,15.1 km from center
+,,,,
+Royal Suites,SAR450 ,7.5,144 reviews,550 m from center
+,,,,
+Unique Suites,SAR382 ,8.3,338 reviews,5.6 km from center
+,,,,
+Sama Al Qasr Al Muhammadiah,SAR250 ,7.2,362 reviews,6 km from center
+,,,,
+Boudl Khurais,SAR240 ,5.8,263 reviews,2.1 km from center
+,,,,
+Hodooa Al Masaken 4,SAR150 ,6.4,245 reviews,17 km from center
+,,,,
+Madareem Crown Hotel,SAR642 ,7.2,652 reviews,12.2 km from center
+,,,,
+El Tawfiq Furnished Suites Malaz,SAR222 ,6.8,166 reviews,4 km from center
+,,,,
+Samaya Suites,SAR360 ,8.1,262 reviews,9.2 km from center
+,,,,
+قصر نافا للوحدات السكنية اليرموك,SAR289 ,7.8,92 reviews,16.1 km from center
+,,,,
+Boudl Al Sahafa,SAR455 ,8.2,999 reviews,13.3 km from center
+,,,,
+Almakan Hotel 107,SAR540 ,6.1,741 reviews,12.6 km from center
+,,,,
+ليلة مبيت للوحدات السكنية,SAR240 ,7.8,10 reviews,4.6 km from center
+,,,,
+Narcissus Riyadh Hotel & Spa,"SAR1,000 ",8.6,"3,480 reviews",350 m from center
+,,,,
+Ruoof Furnished Units Apartment,SAR250 ,7.3,193 reviews,14.1 km from center
+,,,,
+East Rodina Furnished Residential Units,SAR187 ,6.9,76 reviews,14.5 km from center
+,,,,
+Dorar Darea Hotel Apartments - Al Mughrizat,SAR270 ,6.4,191 reviews,9 km from center
+,,,,
+Beautiful Moment Furnished Apartments,SAR450 ,8.1,494 reviews,16.6 km from center
+,,,,
+Mandarin Hotel Apartments,SAR475 ,8.7,427 reviews,6.5 km from center
+,,,,
+Sixty Three Hotel Suites,SAR270 ,7.2,68 reviews,2.1 km from center
+,,,,
+Duset Hotel Suites,SAR500 ,8.5,"1,772 reviews",7.2 km from center
+,,,,
+Tobal Al Malaz ApartHotel,SAR255 ,6.9,179 reviews,4 km from center
+,,,,
+Elite Furnished Units,SAR210 ,8.2,104 reviews,16.9 km from center
+,,,,
+تالين الرياض للوحدات السكنية,SAR201 ,7.6,122 reviews,14.3 km from center
+,,,,
+Al Muhaidb Al Nadwa,SAR300 ,7.8,586 reviews,21.8 km from center
+,,,,
+ال متعب سويتس طريق الدمام,SAR280 ,5.9,143 reviews,15.6 km from center
+,,,,
+"Radisson Blu Hotel & Residence, Riyadh Diplomatic Quarter","SAR1,301 ",8.5,721 reviews,5.7 km from center
+,,,,
+,,,,
+,,,,
+فندق دولف الرياض شارع العمرة Doolv hotel,SAR380 ,7,378 reviews,12.6 km from center
+,,,,
+Clemence Suites,SAR395 ,8.6,527 reviews,8.4 km from center
+,,,,
+modern apartment,SAR560 ,6.8,252 reviews,15.8 km from center
+,,,,
+Hotelier Al Sulaymaniyh,SAR210 ,6.3,412 reviews,2.6 km from center
+,,,,
+Hodooa Al Masaken 3,SAR150 ,7.6,663 reviews,15.6 km from center
+,,,,
+Al Muhaidb Residence Salahuddin,SAR700 ,8.3,349 reviews,5.2 km from center
+,,,,
+Cristal Amaken Hotel Riyadh,SAR800 ,7.9,"1,840 reviews",26.3 km from center
+,,,,
+Quetzal Aparthotel,SAR540 ,7.5,"1,020 reviews",11.6 km from center
+,,,,
+Dorar Darea Hotel Apartments - Al Nafl,SAR291.93 ,8.8,75 reviews,9.5 km from center
+,,,,
+Aseel Alsharq Hotel أصيل الشرق للوحدات السكنية,SAR278 ,5.6,115 reviews,17.9 km from center
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+Ronza Land Aparthotel,SAR349 ,7.4,347 reviews,7.7 km from center
+,,,,
+Revan Palace,SAR450 ,5.3,362 reviews,17.7 km from center
+,,,,
+مرسال سويت,SAR269 ,8.6,"1,499 reviews",6.3 km from center
+,,,,
+,,,,
+,,,,
+Qasr Alhanen Furnished Apartments,SAR280 ,8.4,45 reviews,14.6 km from center
+,,,,
+Al Bateel Furnished Apartments,SAR295 ,6,101 reviews,17.9 km from center
+,,,,
+Dari Wa Darak Furnished Units - Al Shifa,SAR185 ,6.8,58 reviews,16.3 km from center
+,,,,
+غالينا للشقق المفروشة,SAR214 ,7.6,347 reviews,12.5 km from center
+,,,,
+ال متعب سويتس الإزدهار,SAR509 ,7.9,69 reviews,9.6 km from center
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+Rest Time Golden Hotel,SAR290 ,,,9.2 km from center
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+ال متعب سويتس المؤنسية,SAR350 ,7.3,64 reviews,16.2 km from center
+,,,,
+Quetzal Aparthotel,SAR540 ,7.9,"1,840 reviews",11.6 km from center
+,,,,
+Burj Al Hayat Furnished suites-Al Mallaz,SAR300 ,6.5,79 reviews,5.9 km from center
+,,,,
+All Days ِApartHotel,SAR230 ,7.7,151 reviews,4.1 km from center
+,,,,
+Al Massa Hotel Olaya,SAR360 ,6.9,157 reviews,500 m from center
+,,,,
+دانة الخليج Danat Al Khaleej Hotel,SAR540 ,8.4,462 reviews,17.6 km from center
+,,,,
+غرناطة بالاس للشقق المفروشه - Granada Palace furnished apartments,SAR380 ,7.6,408 reviews,11.8 km from center
+,,,,
+Janat Al Areef ApartHotel,SAR525 ,7.9,161 reviews,12.2 km from center
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+Rayatna for Furnished Apartments 2,SAR400 ,7.1,281 reviews,11.3 km from center
+,,,,
+,,,,
+,,,,
+Danah Aparthotel,SAR500 ,7.4,106 reviews,16.3 km from center
+,,,,
+Nawara Sulimania Askary,SAR210 ,6.9,70 reviews,3.6 km from center
+,,,,
+Elite of Elite Hotel Apartments,SAR365 ,7.6,229 reviews,10.7 km from center
+,,,,
+Bzul Furnished Units,SAR299 ,8.1,61 reviews,14.1 km from center
+,,,,
+,,,,
+,,,,
+Meda Furnished Apartments,SAR350 ,8.2,253 reviews,15 km from center
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+شقق ايجار شهري الرياض,SAR399 ,5.4,612 reviews,15.5 km from center
+,,,,
+Al Rafahya Crown,SAR250 ,7.1,74 reviews,17.8 km from center
+,,,,
+Mabaat - Al Malqa - 244,SAR800 ,5.2,515 reviews,13.8 km from center
+,,,,
+,,,,
+,,,,
+Darina Furnished Apartments,SAR810 ,7.8,87 reviews,15 km from center
+,,,,
+Al Eairy Apartment-Riyadh 6,SAR95 ,7.3,64 reviews,10.3 km from center
+,,,,
+لاكازا للشقق الفندقية - La Casa Apartments,SAR217 ,7.2,554 reviews,19.4 km from center
+,,,,
+Topaz Furnished Apartments,SAR500 ,6.3,412 reviews,11.1 km from center
+,,,,
+,,,,
+,,,,
+صبا للشقق الفندقيه,SAR249 ,6.5,79 reviews,5.7 km from center
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+Mabaat - Al Nada - 250,"SAR1,000 ",6.9,132 reviews,12.2 km from center
+,,,,
+Burj Al Hayat Furnished suites-Al Mallaz,SAR300 ,6.9,157 reviews,5.9 km from center
+,,,,
+Mabaat - Al Izdihar - 400,"SAR1,000 ",8.8,159 reviews,9.9 km from center
+,,,,
+,,,,
+,,,,
+شقة في الماجدية وقريبه من البوليفارد دخول ذاتي,"SAR2,000 ",7.8,302 reviews,9.9 km from center
+,,,,
+Flora Hotel Suites,SAR280 ,7.3,198 reviews,9.8 km from center
+,,,,
+Al Massa Hotel Olaya,SAR360 ,6.9,179 reviews,0.5 km from center
+,,,,
+Goot Resorts,"SAR2,380 ",8.2,323 reviews,18.7 km from center
+,,,,
+Ronza Land Aparthotel,SAR349 ,,,7.7 km from center
+,,,,
+منتجع نبراس واتر بارك,"SAR1,900 ",,,17.3 km from center
+,,,,
+Grand Plaza - Qurtubah,SAR451 ,,,14.7 km from center
+,,,,
+Asfar Plaza Hotel & Apartments,SAR249 ,,,13 km from center
+,,,,
+Tobal Al Malaz ApartHotel,SAR255 ,,,4 km from center
+,,,,
+Thwary Hotel Suites,"SAR1,550 ",,,15 km from center
+,,,,
+B1 Ghadeer VIP Golden,SAR791 ,6.9,769 reviews,8.6 km from center
+,,,,
+Mabaat - Al Nada - 250,"SAR1,000 ",8.7,170 reviews,12.2 km from center
+,,,,
+,,,,
+,,,,
+Mabaat - Al Yasmin - 355,"SAR1,000 ",7.7,"1,347 reviews",15.8 km from center
+,,,,
+,,,,
+,,,,
+Aspar Resorts,"SAR1,080 ",7.1,74 reviews,22.8 km from center
+,,,,
+,,,,
+,,,,
+حياة مودرن الفندقيةHayat Modren,"SAR1,126 ",7.3,198 reviews,19.7 km from center
+,,,,
+The Elite Apartment,"SAR1,200 ",7.1,450 reviews,17.1 km from center
+,,,,
+منتجع نبراس واتر بارك,"SAR1,900 ",7.9,83 reviews,17.3 km from center
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+Ktol,"SAR1,400 ",6.3,156 reviews,9.8 km from center
+,,,,
+Darina Furnished Apartments,SAR810 ,5.2,168 reviews,15 km from center
+,,,,
+Palami Farm - مزرعة بلامي,"SAR1,350 ",9.7,693 reviews,50.1 km from center
+,,,,
+شقة في الماجدية وقريبه من البوليفارد دخول ذاتي,"SAR2,000 ",7.7,232 reviews,9.9 km from center
+,,,,
+,,,,
+,,,,
+Viola Gardens,SAR236 ,7.9,221 reviews,12.3 km from center
+,,,,
+Nawara Furnished Units - ALAziziyah,SAR250 ,,,14.5 km from center
+,,,,
+مساكن المعمورة,SAR200 ,,,18.6 km from center
+,,,,
+Khayal Hotel Apartments,SAR230 ,,,23.6 km from center
+,,,,
+Hodo Al Masaken 2,SAR150 ,,,15.1 km from center
+,,,,
+Rokn Alyaqut Furnished Apartments,SAR550 ,,,17.2 km from center
+,,,,
+Dar Hashim Hotel Suites - Alnuzha,SAR550 ,,,7.3 km from center
+,,,,
+Aral Suites,SAR350 ,,,14.5 km from center
+,,,,
+فندق رايتنا العز,SAR250 ,,,12.2 km from center
+,,,,
+ال متعب سويتس اليرموك,SAR383 ,,,15.8 km from center
+,,,,
+,,,,
+,,,,
+Chalet Maria Al Ryiad,SAR420 ,6.2,57 reviews,24.7 km from center
+,,,,
+السعادة,SAR563 ,6.9,769 reviews,13.3 km from center
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+Fully Furnished Private Luxury Villa ڤيلا مؤثثة الخاصة المميزة,"SAR3,000 ",7.7,"1,347 reviews",2.7 km from center
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+شالية فهد,"SAR1,100 ",7.4,109 reviews,15.8 km from center
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+Mabaat - Al Olaya - 614,"SAR2,000 ",,,1.1 km from center
+,,,,
+شقق قمة الرفاء للوحدات السكنيه,SAR153 ,,,12.6 km from center
+,,,,
+شقة فاخره في برج رافال,"SAR3,000 ",,,11.9 km from center
+,,,,
+برج داماك الرياض / Damac Esclusiva,SAR600 ,,,6.1 km from center
+,,,,
+Dara Al Rayan,SAR411 ,,,10.1 km from center
+,,,,
+Mabaat - Al Qairawan - Signature - 624,"SAR1,100 ",,,16.5 km from center
+,,,,
+Twlan,SAR399 ,,,18.3 km from center
+,,,,
+Divon Chalet,SAR800 ,,,13.8 km from center
+,,,,
+Mabaat - Al Aqiq - 559,SAR600 ,,,9.8 km from center
+,,,,
+Nawal Resort,SAR980 ,,,15.4 km from center
+,,,,
+Sweet Homes,SAR300 ,8.2,327 reviews,14.5 km from center
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+Mabaat Homes - Al Malqa - Luxury Apartment,"SAR1,000 ",6.4,191 reviews,14.9 km from center
+,,,,
+,,,,
+,,,,
+شاليه,"SAR1,500 ",7.9,229 reviews,26.1 km from center
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+شاليهات صدف,SAR700 ,,,19 km from center
+,,,,
+مخيم روح القصيد,"SAR1,200 ",,,51.6 km from center
+,,,,
+شقة للإيجار في برج رافال,"SAR1,530 ",,,11.8 km from center
+,,,,
+منتجع بانسيه,"SAR9,700 ",,,28.1 km from center
+,,,,
+modern apartment,SAR560 ,,,15.8 km from center
+,,,,
+شانتال Chantal,"SAR3,000 ",,,18.6 km from center
+,,,,
+Mabaat - Al Qairawan - 176,SAR900 ,,,18.5 km from center
+,,,,
+Ajuwan Resort,"SAR15,000 ",,,35 km from center
+,,,,
+شقة الأمل,"SAR1,150 ",,,16.9 km from center
+,,,,
+شاليه حنين,"SAR2,000 ",,,16 km from center
+,,,,
+فلل لاكاسا الفندقية,"SAR4,976 ",,,6.5 km from center
+,,,,
+Vivienda Hotel Villas Granada,"SAR4,000 ",,,11.3 km from center
+,,,,
+قاعات مناسبات وسم,"SAR1,600 ",,,26.7 km from center
+,,,,
+Fully Furnished Private Luxury Villa ڤيلا مؤثثة الخاصة المميزة,"SAR3,000 ",,,2.7 km from center
+,,,,
+Mabaat - Al Olaya - 614,"SAR2,000 ",,,1.1 km from center
+,,,,
+شالية فهد,"SAR1,100 ",7.4,"2,158 reviews",15.8 km from center
+,,,,
+,,,,
+,,,,
+شقة الماجدية,"SAR2,500 ",,,16 km from center
+,,,,
+Rest Night Hotel Suites- - AL Nafal,SAR250 ,,,9.8 km from center
+,,,,
+منتجع نزل الدرعية,"SAR7,000 ",,,16.2 km from center
+,,,,
+شقة فاخره في برج رافال,"SAR3,000 ",,,11.9 km from center
+,,,,
+ال متعب سويتس الياسمين,SAR700 ,,,15.1 km from center

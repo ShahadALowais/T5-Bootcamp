@@ -1,0 +1,308 @@
+,hotel,Price,rating,reviews,loc(km from center)
+1,Al Waha Palace Hotel,307,7.8,2098 ,1.8
+3,Voyage Hotel,466,8.6,4111 ,3.8
+5,Carawan Al Fahad Hotel,350,8.1,2299 ,2
+7,Gloria Inn Riyadh,326,7.9,4054 ,8.1
+9,Rest Night Hotel Suites- - AL Nafal,250,7.4,2158 ,9.8
+11,"Burj Rafal Riyadh, a Marriott International Hotel",990,7.8,4674 ,11.9
+13,Grand Plaza Hotel-Dhabab Riyadh,350,7.8,1008 ,4.3
+15,"Crowne Plaza Riyadh - RDC Hotel & Convention, an IHG Hotel",925,8.8,2250 ,6.7
+17,Executives Hotel - Olaya,444,7.9,5686 ,1.5
+19,Art View Hotel Al Riyadh,513,8.1,1906 ,7.7
+21,Roof Hotel Apartments,399,8.1,457 ,11.2
+23,Sheraton Riyadh Hotel & Towers,650,7.9,972 ,3.9
+25,"The Ritz-Carlton, Riyadh",1499,8.6,3435 ,6
+27,Al Mashreq Boutique Hotel – Small Luxury Hotels of the World,783,7.9,1784 ,2.8
+29,Ibis Riyadh Olaya Street,325,6.6,4333 ,1.9
+31,Novotel Riyadh Al Anoud,475,7.2,3117 ,1.4
+33,"Holiday Inn Riyadh Izdihar, an IHG Hotel",570,7.7,1669 ,10.8
+35,"Crowne Plaza Riyadh Al Waha, an IHG Hotel",473,7.5,1861 ,6.9
+37,Hilton Garden Inn Riyadh Olaya,410,7.1,639 ,2.5
+39,Courtyard by Marriott Riyadh Olaya,775,8.3,2897 ,800
+41,Courtyard by Marriott Riyadh Northern Ring Road,600,8.1,1155 ,7.9
+43,Braira Olaya,588,8.6,3385 ,1.4
+45,Courtyard Riyadh by Marriott Diplomatic Quarter,650,8.1,2440 ,6.6
+47,DoubleTree by Hilton Hotel Riyadh - Al Muroj Business Gate,698,7.6,3393 ,7.9
+49,"Crowne Plaza Hotel Riyadh Minhal, an IHG Hotel",460,8.7,1334 ,3.8
+51,"Radisson Blu Hotel, Riyadh",560,7.8,2152 ,4.7
+53,Aswar Hotel Suites Riyadh,638,8.5,1465 ,12.2
+55,"Holiday Inn Meydan, an IHG Hotel",475,7.6,2542 ,2.2
+57,Novotel Suites Riyadh Olaya,400,7.2,1602 ,1.6
+59,Grand Plaza Gulf Hotel - Riyadh,399,8.0,3136 ,4
+65,Melissa Hotel Riyadh,350,8.1,1886 ,12.4
+67,Ramada by Wyndham Hotel Riyadh,347,7.2,1862 ,4.3
+69,Hilton Garden Inn Riyadh Olaya,410,7.1,640 ,2.5
+71,OYO 123 Dome El Nozha,252,7.1,1906 ,7.9
+73,Braira Qurtubah,551,8.1,5461 ,14.9
+77,IntercityHotel Riyadh Malaz,425,8.0,2619 ,6.2
+79,Hyatt Regency Riyadh Olaya,1305,8.4,6997 ,0.4
+83,Almasem Luxury Hotel suite 6,250,7.6,535 ,11.4
+85,Coral Olaya Hotel,267,6.9,1780 ,2.7
+87,Towlan Al Rawdah,230,7.3,972 ,9.8
+91,"voco - Riyadh, an IHG Hotel",808,8.3,2339 ,3.6
+95,Braira AL Wezarat,425,8.4,2841 ,4.4
+97,فيناس للشقق الفندقية,240,7.1,212 ,13.1
+99,Olian Hotel,419,7.6,2073 ,12.5
+101,Motiara Hotel - La Valle Mall,513,8.1,762 ,10
+103,Hyatt Place Riyadh Sulaimania,585,8.6,1255 ,3.1
+109,Centro Olaya by Rotana,675,7.9,4167 ,0.4
+111,Madareem Crown Hotel,642,7.2,652 ,12.2
+113,Rafa - Al Nuzhah,430,8.1,1268 ,7.1
+117,Executives Hotel / KAFD,675,8.1,3499 ,9.7
+121,Four Points By Sheraton Riyadh Khaldia,375,7.7,1730 ,7.1
+123,Ascott Rafal Olaya Riyadh,836,7.2,5239 ,13.8
+125,Riyadh Airport Marriott Hotel,1000,7.9,1646 ,25.7
+127,Le Meridien Riyadh,1190,8.1,870 ,3.9
+129,Meral Crown Hotel,405,7.8,1135 ,12.1
+133,Radisson Hotel Riyadh Airport,631,7.6,535 ,24.4
+135,Almasem Luxury Hotel suite 6,250,8.2,1414 ,11.4
+137,"Al Faisaliah Hotel, Riyadh",2550,7.3,2359 ,0.8
+139,Sanam Hotel Suites - Riyadh,285,7.1,1906 ,2
+141,OYO 123 Dome El Nozha,252,8.2,3602 ,7.9
+143,Holiday Khaleej Hotel,557,7.9,1840 ,11.6
+145,Quetzal Aparthotel,540,8.1,1781 ,11.6
+147,"Park Inn by Radisson, Riyadh",360,7.7,561 ,5.2
+149,Hayat Rose Hotel Apartments,398,8.2,1118 ,9.2
+151,"Marriott Executive Apartments Riyadh, Convention Center",950,7.5,960 ,3.4
+155,Holiday Khaleej Hotel,557,8.2,3602 ,11.6
+159,Hayat Rose Hotel Apartments,398,7.7,561 ,9.2
+163,Swiss International Royal Hotel Riyadh,695,8.0,1495 ,13.5
+167,Al Mutlaq Hotel Riyadh,348,7.7,608 ,3.8
+169,Hyatt Buyutat,410,6.8,1376 ,2.6
+171,RAND by Wandalus (Formerly Coral Riyadh Suliemaniah),385,7.5,612 ,1.5
+173,Sanam Hotel Suites - Riyadh,285,7.3,2359 ,2
+175,Al Amoria Apartments,269,8.2,67 ,7.3
+177,Auris Al Fanar ApartHotel,345,7.6,562 ,11.9
+179,Kyan Al Yarmouk Suites,300,7.7,254 ,18.1
+181,Unique Suites,382,8.3,338 ,5.6
+183,Samaya Suites,360,8.1,262 ,9.2
+185,Radisson Hotel Riyadh Airport,631,8.6,527 ,24.4
+187,Clemence Suites,395,7.9,1840 ,8.4
+189,Quetzal Aparthotel,540,7.9,161 ,11.6
+191,Janat Al Areef ApartHotel,525,6.9,155 ,12.2
+193,Nadreen Furnished Units,400,7.5,85 ,18.2
+195,The One Resorts,1100,8.7,56 ,25.1
+197,Mnazel Jawraq,2250,8.1,1781 ,10.1
+199,"Park Inn by Radisson, Riyadh",360,6.0,2614 ,5.2
+201,فندق العروبة,110,6.3,6100 ,7
+203,Capital O 162 Brzeen Hotel,146,7.4,1502 ,4.1
+207,درر رامه للأجنحة الفندقية 4,205,6.6,214 ,6.4
+209,Novotel Suites Riyadh Dyar,300,6.2,3568 ,1.4
+211,Ewaa Express Hotel - Khurais,299,8.4,1877 ,2.1
+213,Almakan Suites 111,108,4.0,942 ,12.7
+215,"Marriott Executive Apartments Riyadh, Convention Center",950,8.2,1118 ,3.4
+217,manzel aram 105,126,5.4,890 ,4.3
+219,Al Muhaidb Al Malaz - Al Farazdaq Road,210,6.9,769 ,6
+221,Sama Inn Hotel,330,7.8,429 ,14.4
+223,جولدن جاردن للأجنحة الفندقية,250,7.9,272 ,13
+225,Tulip Inn Riyadh,225,5.8,498 ,6.8
+227,Park House Hotel Suite,369,8.1,487 ,2.6
+229,Al Muhaidb Residence - Al Malaz,285,7.7,1347 ,4.1
+231,Coupard Hotel,400,8.0,206 ,15.8
+233,فندق الرياض ان - riyadh inn hotel,270,7.7,400 ,12.3
+235,قصر الحمراء فرع الاسواق,98,6.7,2466 ,6.6
+237,Al Muhaidb Down Town - King Fahd Road,250,7.9,1057 ,4.3
+239,Grand Plaza Hotel-KAFD Riyadh,555,7.9,655 ,10.8
+241,MENA AL DIYAR 114,140,6.4,549 ,5.7
+243,Al Hamra Palace By Warwick,400,7.1,1261 ,4.1
+245,Plaza Business Hotel,468,6.5,3617 ,750
+247,Mena Hotel Riyadh,315,6.4,2598 ,1.4
+249,Vittori Palace Hotel and Residences,600,8.5,1256 ,7.7
+251,Aber Al Yasmin,340,8.4,1330 ,14.3
+253,Gardino Hotel & Residence - فندق جاردينو,664,8.6,535 ,4.6
+255,صبا للشقق الفندقيه,249,7.2,554 ,5.7
+257,Dar Hashim Hotel Apartments - Al Morouj,330,8.9,2283 ,6.4
+259,Almakan Hotel 103,144,5.9,1806 ,17.2
+261,Rose Garden Hotel,264,7.1,3297 ,4
+263,Al Muhaidb Residence Al Takhassusi,270,6.7,1142 ,1
+265,AWFAD Hotel,361,7.6,1001 ,650
+271,Nelover Qurtubah Hotel,563,8.5,880 ,13.5
+275,Nadreen Furnished Units,400,6.9,155 ,18.2
+277,Al Malqa Elite Hotel,431,7.9,845 ,13.5
+279,Boudl Al Qasr,316,7.6,2169 ,10.8
+281,Rafa Homes,350,7.5,960 ,11.5
+283,Al Muhaidb ALOlaya Suites,345,8.0,1104 ,1.9
+285,Braira Al Nakheel,732,8.7,3879 ,8.8
+287,Dorat Najd Resort - منتجع درة نجد,950,7.8,135 ,20.6
+289,Four Seasons Hotel Riyadh,3800,8.6,1499 ,1.9
+291,A4 Ghadeer VIP Golden,889,7.0,853 ,8.6
+293,Al Janaderia Suites 7,315,8.4,1493 ,2.6
+295,Best Western Plus Fursan,520,7.5,85 ,8.3
+297,The One Resorts,1100,6.4,191 ,25.1
+299,Dorar Darea Hotel Apartments - Al Mughrizat,270,5.8,1333 ,9
+301,Capital O 419 Al Safeer Hotel,124,7.9,229 ,14.2
+303,Rafa Homes Al Izdihar 2,484,8.9,2283 ,10
+305,Dar Hashim Hotel Apartments - Al Morouj,330,6.2,990 ,6.4
+307,Aliah Tolan Palace,122,7.7,1347 ,11.9
+309,Al Muhaidb Residence - Al Malaz,285,6.3,619 ,4.1
+311,Al Muhaidb Tahliya (Olaya),245,6.8,1376 ,250
+315,Ewaa Express Hotel - Gaber,375,8.8,652 ,17.7
+317,Hayat Al Riyadh Hotel,432,8.2,2336 ,4.9
+319,Dana Hotel & Residences 2,500,9.2,488 ,16.6
+321,Elite Suites Hotel - Al sahafah,400,7.9,582 ,11.2
+325,Riyadh Diplomatic Quarter - Marriott Executive Apartments,2200,8.3,402 ,6.2
+329,Corp Inn Deira.,380,6.7,739 ,7.7
+331,Alfarhan Panda Alfayha,243,8.0,1045 ,13.6
+335,Al Muhaidb Sulaimanya Askary Hospital,250,7.7,1987 ,3.1
+337,Sama Hotel,190,7.3,1173 ,2.7
+339,Almakan Suites 101,162,5.2,914 ,12.6
+341,Golden Tulip Riyadh,550,9.0,231 ,12.2
+343,Dana Hotel & Residences,450,8.8,764 ,16.6
+345,Super 8 Al Riyadh,293,6.9,753 ,16.5
+347,Mandarin Hotel Apartments,475,8.7,427 ,6.5
+353,دانة الخليج Danat Al Khaleej Hotel,540,8.4,462 ,17.6
+355,Ashbonh Hotel Suites,333,7.6,406 ,2.3
+357,Al Muhaidb Gharnata - Al Malaz,260,7.4,709 ,5.9
+359,Rest Night Hotel Apartment,293,7.6,2865 ,12.7
+363,Al Farhan Hotel Suites (Exit 15),170,6.4,465 ,12.1
+365,Al Furat Madayin Hotel,200,6.9,340 ,1.2
+367,Mira Trio Hotel - Riyadh - Tahlia Street,447,7.4,2678 ,1.5
+369,هيفن بلازا,306,6.3,3386 ,1.8
+371,Almakan Suites 102,126,5.4,612 ,12.6
+373,H (Hills) ApartHotel,290,7.3,319 ,4.3
+375,عائلات فقط - Maqam AL Diyafa,157,6.9,168 ,16.5
+379,Nawara Dala,300,7.0,497 ,6.1
+381,امجاد الرياض,240,6.2,179 ,4.6
+387,Al Janaderia Suites 7,315,7.0,853 ,2.6
+391,Boudl Al Munsiyah,395,7.7,2711 ,20
+393,Al Farhan Hotel Suites - Al Salam,218,6.6,1066 ,12.3
+395,Intour Qurtoba,290,7.2,1002 ,13.5
+397,Rafa Homes Al Izdihar 1,402,8.0,266 ,10
+399,Aber Al Munsiyah,350,7.8,1224 ,19.9
+401,ElAF ALHAMRA,180,6.2,80 ,11.8
+403,Manazel Maali Suites,200,7.2,166 ,12.3
+405,Holiday Plus Cordoba,213,7.5,509 ,14.6
+407,Al Muhaidb Al Malaz - Al Jamiah,245,7.4,760 ,6.1
+409,Ewaa Express Hotel-Al Olaya,300,6.8,1181 ,0.5
+411,سمو 2,200,6.5,125 ,8.7
+413,فندق دولف الرياض Doolv hotel,299,7.4,56 ,13.1
+415,الفرحان قرطبه,446,7.5,482 ,14.9
+417,Al Muhaidb Jarir - Al Malaz,340,7.9,473 ,6.3
+419,Malfakum Apartment Hotel,350,8.8,764 ,16
+429,Al Muhaidb Jarir - Al Malaz,340,7.7,561 ,6.3
+431,Hayat Rose Hotel Apartments,398,7.9,473 ,9.2
+435,Dana Hotel & Residences,450,6.3,201 ,16.6
+437,قصر اليمامة للاجنحة الفندقية-فرع الحزم,266,8.1,3843 ,17.6
+439,Ayan furnished units and Suites,577,9.3,213 ,12.4
+441,Makarem Hotel Apartments,400,6.8,1376 ,15.1
+443,Hyatt Buyutat,410,6.1,230 ,2.6
+447,فلل لاكاسا الفندقية,4976,4.8,71 ,6.5
+449,بي تو للوحدات الفندقية,250,7.4,177 ,9
+451,towlan qurtaba,240,8.2,347 ,14.3
+453,Manazilna Apartments Riyadh منازلنا للشقق المفروشة للمحصنين فقط,240,9.7,181 ,9.4
+455,hosta hotel suites,450,7.6,406 ,13.5
+457,Ashbonh Hotel Suites,333,9.0,231 ,2.3
+459,Golden Tulip Riyadh,550,7.3,210 ,12.2
+461,دار الشرق للوحدات السكنية المفروشة,250,6.9,190 ,18.2
+463,تالـيـن غرناطه للاجنحة الفندقية,280,7.1,3297 ,12.5
+465,Rose Garden Hotel,264,5.3,601 ,4
+467,Al Eairy Apartments- Riyadh 3,105,8.2,327 ,16
+469,Sweet Homes,300,7.2,1061 ,14.5
+471,Boudl Al Malaz,316,7.5,101 ,5.6
+473,قصر الحمراء للأجنحة الفندقية,190,8.4,1368 ,4.4
+477,Boudl Al Sahafa,455,8.2,999 ,13.3
+479,Sixty Three Hotel Suites,270,7.2,68 ,2.1
+483,Al Muhaidb Al Narges,300,7.2,966 ,14.6
+487,Boudl Al Wadi,420,7.9,446 ,11.1
+489,Rayatna for Furnished Apartments 2,400,7.1,281 ,11.3
+491,Hotelier Al Sulaymaniyh,210,6.8,252 ,2.6
+493,Cristal Amaken Hotel Riyadh,800,8.3,349 ,26.3
+499,ال متعب سويتس الإزدهار,509,7.6,347 ,9.6
+501,Royal Suites,450,7.5,144 ,550
+503,Elite Furnished Units,210,8.2,104 ,16.9
+507,Bait Al Amani Suites,170,6.1,230 ,2.8
+509,Nasima Hotel Apartements,450,8.2,388 ,15
+511,Rafa,414,7.2,901 ,12
+515,قصر الحمراء للأجنحة الفندقية,190,7.5,101 ,4.4
+517,towlan qurtaba,240,7.4,177 ,14.3
+519,Mena Andalusia Riyadh,248,7.1,3381 ,1.8
+521,Al Eairy Apartments Al Riyad 5,90,4.7,190 ,10.4
+523,Clemence Suites,395,8.6,527 ,8.4
+525,شاليهات المقصد Al Maqsd Chalets,1104,7.2,53 ,19.2
+527,Arto Aparthotel,373,8.6,773 ,12.2
+529,Le Park Concord Rabwah Boutique Hotel,315,7.7,211 ,8.9
+531,Dabab Hotel By Warwick,329,7.4,2802 ,2.8
+533,APOLLO DIMORA THE BUSINESS HOTEL,285,6.8,360 ,7
+535,Hodooa Al Masaken,120,6.5,334 ,15.1
+541,Sama Al Qasr Al Muhammadiah,250,7.2,362 ,6
+543,Boudl Khurais,240,5.8,263 ,2.1
+545,Hodooa Al Masaken 4,150,6.4,245 ,17
+549,El Tawfiq Furnished Suites Malaz,222,6.8,166 ,4
+553,قصر نافا للوحدات السكنية اليرموك,289,7.8,92 ,16.1
+557,Almakan Hotel 107,540,6.1,741 ,12.6
+559,ليلة مبيت للوحدات السكنية,240,7.8,10 ,4.6
+561,Narcissus Riyadh Hotel & Spa,1000,8.6,3480 ,350
+563,Ruoof Furnished Units Apartment,250,7.3,193 ,14.1
+565,East Rodina Furnished Residential Units,187,6.9,76 ,14.5
+567,Dorar Darea Hotel Apartments - Al Mughrizat,270,6.4,191 ,9
+569,Beautiful Moment Furnished Apartments,450,8.1,494 ,16.6
+575,Duset Hotel Suites,500,8.5,1772 ,7.2
+577,Tobal Al Malaz ApartHotel,255,6.9,179 ,4
+581,تالين الرياض للوحدات السكنية,201,7.6,122 ,14.3
+583,Al Muhaidb Al Nadwa,300,7.8,586 ,21.8
+585,ال متعب سويتس طريق الدمام,280,5.9,143 ,15.6
+587,"Radisson Blu Hotel & Residence, Riyadh Diplomatic Quarter",1301,8.5,721 ,5.7
+591,فندق دولف الرياض شارع العمرة Doolv hotel,380,7.0,378 ,12.6
+595,modern apartment,560,6.8,252 ,15.8
+597,Hotelier Al Sulaymaniyh,210,6.3,412 ,2.6
+599,Hodooa Al Masaken 3,150,7.6,663 ,15.6
+601,Al Muhaidb Residence Salahuddin,700,8.3,349 ,5.2
+603,Cristal Amaken Hotel Riyadh,800,7.9,1840 ,26.3
+605,Quetzal Aparthotel,540,7.5,1020 ,11.6
+607,Dorar Darea Hotel Apartments - Al Nafl,291,8.8,75 ,9.5
+609,Aseel Alsharq Hotel أصيل الشرق للوحدات السكنية,278,5.6,115 ,17.9
+615,Ronza Land Aparthotel,349,7.4,347 ,7.7
+617,Revan Palace,450,5.3,362 ,17.7
+619,مرسال سويت,269,8.6,1499 ,6.3
+623,Qasr Alhanen Furnished Apartments,280,8.4,45 ,14.6
+625,Al Bateel Furnished Apartments,295,6.0,101 ,17.9
+627,Dari Wa Darak Furnished Units - Al Shifa,185,6.8,58 ,16.3
+629,غالينا للشقق المفروشة,214,7.6,347 ,12.5
+631,ال متعب سويتس الإزدهار,509,7.9,69 ,9.6
+643,ال متعب سويتس المؤنسية,350,7.3,64 ,16.2
+645,Quetzal Aparthotel,540,7.9,1840 ,11.6
+647,Burj Al Hayat Furnished suites-Al Mallaz,300,6.5,79 ,5.9
+649,All Days ِApartHotel,230,7.7,151 ,4.1
+651,Al Massa Hotel Olaya,360,6.9,157 ,500
+655,غرناطة بالاس للشقق المفروشه - Granada Palace furnished apartments,380,7.6,408 ,11.8
+657,Janat Al Areef ApartHotel,525,7.9,161 ,12.2
+669,Danah Aparthotel,500,7.4,106 ,16.3
+671,Nawara Sulimania Askary,210,6.9,70 ,3.6
+673,Elite of Elite Hotel Apartments,365,7.6,229 ,10.7
+675,Bzul Furnished Units,299,8.1,61 ,14.1
+679,Meda Furnished Apartments,350,8.2,253 ,15
+693,شقق ايجار شهري الرياض,399,5.4,612 ,15.5
+695,Al Rafahya Crown,250,7.1,74 ,17.8
+697,Mabaat - Al Malqa - 244,800,5.2,515 ,13.8
+701,Darina Furnished Apartments,810,7.8,87 ,15
+703,Al Eairy Apartment-Riyadh 6,95,7.3,64 ,10.3
+705,لاكازا للشقق الفندقية - La Casa Apartments,217,7.2,554 ,19.4
+707,Topaz Furnished Apartments,500,6.3,412 ,11.1
+711,صبا للشقق الفندقيه,249,6.5,79 ,5.7
+717,Mabaat - Al Nada - 250,1000,6.9,132 ,12.2
+719,Burj Al Hayat Furnished suites-Al Mallaz,300,6.9,157 ,5.9
+721,Mabaat - Al Izdihar - 400,1000,8.8,159 ,9.9
+725,شقة في الماجدية وقريبه من البوليفارد دخول ذاتي,2000,7.8,302 ,9.9
+727,Flora Hotel Suites,280,7.3,198 ,9.8
+729,Al Massa Hotel Olaya,360,6.9,179 ,0.5
+731,Goot Resorts,2380,8.2,323 ,18.7
+745,B1 Ghadeer VIP Golden,791,6.9,769 ,8.6
+747,Mabaat - Al Nada - 250,1000,8.7,170 ,12.2
+751,Mabaat - Al Yasmin - 355,1000,7.7,1347 ,15.8
+755,Aspar Resorts,1080,7.1,74 ,22.8
+759,حياة مودرن الفندقيةHayat Modren,1126,7.3,198 ,19.7
+761,The Elite Apartment,1200,7.1,450 ,17.1
+763,منتجع نبراس واتر بارك,1900,7.9,83 ,17.3
+769,Ktol,1400,6.3,156 ,9.8
+771,Darina Furnished Apartments,810,5.2,168 ,15
+773,Palami Farm - مزرعة بلامي,1350,9.7,693 ,50.1
+775,شقة في الماجدية وقريبه من البوليفارد دخول ذاتي,2000,7.7,232 ,9.9
+779,Viola Gardens,236,7.9,221 ,12.3
+801,Chalet Maria Al Ryiad,420,6.2,57 ,24.7
+803,السعادة,563,6.9,769 ,13.3
+815,Fully Furnished Private Luxury Villa ڤيلا مؤثثة الخاصة المميزة,3000,7.7,1347 ,2.7
+825,شالية فهد,1100,7.4,109 ,15.8
+851,Sweet Homes,300,8.2,327 ,14.5
+857,Mabaat Homes - Al Malqa - Luxury Apartment,1000,6.4,191 ,14.9
+861,شاليه,1500,7.9,229 ,26.1
+905,شالية فهد,1100,7.4,2158 ,15.8
